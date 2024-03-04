@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        {
+            "file_path": "PluginCommsQrWifiJava",
+            "plugin_type": "comms",
+            "file_type": "shared_library",
+            "node_type": "client",
+            "shared_library_path": "libPluginCommsQrWifiJava.so",
+            "channels": ["bootstrapQrWifi"]
+        }
+    ]
+}
